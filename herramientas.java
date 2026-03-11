@@ -1,6 +1,3 @@
-java.util.Scanner; {
+import java.util.Scanner; {
     public class herramientas {
-        public static void main(String[] args) {
-            
-        }
-        public static double 
+public static void main(String[] args) {

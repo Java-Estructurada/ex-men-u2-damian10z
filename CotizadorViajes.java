@@ -14,8 +14,9 @@ public class CotizadorViajes {
      public static double calcularComision (double subtotal){
         return subtotal * 0.12;
 
-        public
     }
-     public
-    }
+     public static double calcularGranTotal(double subtotal, double comision) {
+        return subtotal + comision ;
+        }
+        }
     
